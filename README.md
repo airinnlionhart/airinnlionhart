@@ -6,11 +6,11 @@ As a Site Reliability Engineer II at Snagajob, I specialize in elevating the rel
 
 Just to make sense of some of the Repos I have been working on. 5 relate to a tech degree in Python https://teamtreehouse.com/profiles/aaronlenhart;  I have refactor some of them to better follow OOP best practices.
 <br><br>
-https://github.com/airinnlionhart/Techdegree-project-1
-https://github.com/airinnlionhart/Techdegree-project-2
-https://github.com/airinnlionhart/techdegree_project_4
-https://github.com/airinnlionhart/Phrase_Hunters
-https://github.com/airinnlionhart/techdegree_project_5
+https://github.com/airinnlionhart/Techdegree-project-1<br>
+https://github.com/airinnlionhart/Techdegree-project-2<br>
+https://github.com/airinnlionhart/techdegree_project_4<br>
+https://github.com/airinnlionhart/Phrase_Hunters<br>
+https://github.com/airinnlionhart/techdegree_project_5<br>
 
 Django
 https://github.com/airinnlionhart/password_generator
