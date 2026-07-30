@@ -1,26 +1,60 @@
-<img src='https://github.com/airinnlionhart/airinnlionhart/assets/49368013/079eb812-1b23-4d31-828f-11ae05b9d292' width=200 align="left"/> ### Hi there 👋 
+# Hi, I'm Aaron Lenhart 👋
 
-I'm Aaron, an operations engineer(Site Reliability Engineer/ IT) with nine years of experience in the tech industry. I specialize in product engineering, observability, and cloud development, crafting solutions that ensure smooth operations and optimal performance. Passionate about leveraging technology to drive efficiency and innovation, I thrive in dynamic environments where I can apply my expertise to solve complex challenges. Let's connect and collaborate on building the future of technology together! 💻✨
+## Senior Production Engineer | Site Reliability Engineer | Production Support
 
-As a Site Reliability Engineer II at Snagajob, I specialize in elevating the reliability and performance of our services. Collaborating with development teams, I establish clear service levels and monitoring objectives, fostering actionable alerts and a significant reduction in incident noise. Proactively utilizing observability tools, I ensure the robust security of our services and provide critical data to prioritize enhancements. My contributions extend to optimizing infrastructure, preventing service abuse, fostering cost savings, and breaking down silos to promote a cohesive and reliable operational environment. <img src="https://github.com/airinnlionhart/airinnlionhart/assets/49368013/ca08d47a-c49d-4404-92d4-c9e44fa6cf79" width=200 height=200px align="right"/>
+Welcome! I'm a Production Engineer with 9+ years of experience building, supporting, and improving reliable software systems. My career has focused on incident management, production operations, observability, automation, and helping engineering teams deliver stable, high-performing applications.
 
-Just to make sense of some of the Repos I have been working on. 5 relate to a tech degree in Python https://teamtreehouse.com/profiles/aaronlenhart;  I have refactor some of them to better follow OOP best practices.
-<br><br>
-https://github.com/airinnlionhart/Techdegree-project-1<br>
-https://github.com/airinnlionhart/Techdegree-project-2<br>
-https://github.com/airinnlionhart/techdegree_project_4<br>
-https://github.com/airinnlionhart/Phrase_Hunters<br>
-https://github.com/airinnlionhart/techdegree_project_5<br>
+I enjoy solving challenging operational problems, automating repetitive work, and improving the reliability of production environments through thoughtful engineering.
 
-Django
-https://github.com/airinnlionhart/password_generator
+### Core Skills
 
-Jenkins
-https://github.com/airinnlionhart/test_jenkins
+* Production Support
+* Incident Management
+* Site Reliability Engineering (SRE)
+* Observability & Monitoring
+* Python
+* SQL
+* AWS
+* Datadog
+* PagerDuty
+* Docker
+* Kubernetes
+* Linux
+* CI/CD
+* Root Cause Analysis
 
-C#
-https://github.com/airinnlionhart/APICODEREVIEW - School-sponsored program the led me to test out Gremlin https://www.gremlin.com/
+---
 
-HTML, CSS and Javascript
-https://github.com/airinnlionhart/Aarons-Portfolio
-https://github.com/airinnlionhart/OnlineForm
+## Featured Projects
+
+### 🐍 Python Techdegree
+
+A collection of Python projects completed during the Treehouse Python Techdegree. Many have been refactored to incorporate cleaner object-oriented design, improved code organization, and better software engineering practices.
+
+### 🔐 Django Password Generator
+
+A Django application demonstrating backend web development, authentication concepts, and Python web frameworks.
+
+### ⚙️ Jenkins CI/CD
+
+A project exploring continuous integration concepts using Jenkins pipelines.
+
+### 💻 API Code Review (C#)
+
+A C# application developed through a school-sponsored program that strengthened my software engineering foundation and sparked my interest in reliability engineering and production tooling.
+
+### 🌐 Front-End Projects
+
+Early HTML, CSS, and JavaScript projects that demonstrate the progression of my development skills.
+
+---
+
+## Currently Learning
+
+* Production Engineering
+* Reliability Engineering
+* Python Automation
+* Cloud Operations
+* AI-assisted Engineering
+
+Thanks for visiting my GitHub!
